@@ -15,6 +15,8 @@ namespace nowy
             //komentarz
             Console.ReadLine();
 
+            Console.WriteLine("tekst z bartka kompa");
+
         }
     }
 }
