@@ -23,6 +23,7 @@ namespace nowy
                 Console.WriteLine(dana);
 
             }
+            Console.ReadKey();
 
         }
     }
