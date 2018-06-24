@@ -12,6 +12,9 @@ namespace nowy
         {
             Console.WriteLine("Hello world");
             Console.WriteLine("hello");
+            //komentarz
+            Console.ReadLine();
+
         }
     }
 }
