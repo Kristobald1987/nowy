@@ -16,6 +16,12 @@ namespace nowy
             Console.ReadLine();
 
             Console.WriteLine("tekst z bartka kompa");
+            if (true)
+            {
+                int dana = 10;
+                Console.WriteLine(dana);
+
+            }
 
         }
     }
